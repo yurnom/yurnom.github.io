@@ -1792,7 +1792,7 @@ body {
 }
 
 #header .subtitle {
-	color: #999;
+	color: #444;
 	font-style: italic
 }
 
@@ -2000,6 +2000,12 @@ body {
 }
 
 .container .left-col {
+	background-color: #007b8b;
+	background-image: url(/images/bg.jpg);
+	background-size: cover;
+	height: 100%;
+	position: fixed;
+	width: 270px;
 	width: 23%;
 	position: fixed;
 	color: #fff;
@@ -2037,12 +2043,12 @@ body {
 }
 
 .container .left-col #header a {
-	color: #EFEFEF;
-	text-shadow: 0 1px #333
+	color: #666;
+	font-weight:bold;
 }
 
 .container .left-col #header a:hover {
-	color: #2571B8
+	color: #00adef
 }
 
 .container .left-col #header #sub-nav {
