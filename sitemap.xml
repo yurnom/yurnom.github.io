@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://syliu.me/blog/2016/12/29/space/</loc>
+<lastmod>2016-12-29T15:09:46+08:00</lastmod>
+</url>
+<url>
+<loc>http://syliu.me/blog/2016/12/29/a/</loc>
+<lastmod>2016-12-29T15:07:12+08:00</lastmod>
+</url>
+<url>
 <loc>http://syliu.me/blog/2016/12/19/personal-statement/</loc>
 <lastmod>2016-12-19T17:27:41+08:00</lastmod>
+</url>
+<url>
+<loc>http://syliu.me/blog/2016/12/18/my-art-works/</loc>
+<lastmod>2016-12-18T08:57:05+08:00</lastmod>
+</url>
+<url>
+<loc>http://syliu.me/blog/2016/12/17/chao-ji-ma-li-ao-xiong-di-you-xi-zhong-san-dian-chu-cai-de-she-ji/</loc>
+<lastmod>2016-12-17T14:48:13+08:00</lastmod>
 </url>
 <url>
 <loc>http://syliu.me/blog/archives/</loc>
@@ -17,6 +33,15 @@
 <loc>http://syliu.me/blog/categories/</loc>
 </url>
 <url>
+<loc>http://syliu.me/blog/categories/critical-analysis/</loc>
+</url>
+<url>
+<loc>http://syliu.me/blog/categories/art-work/</loc>
+</url>
+<url>
 <loc>http://syliu.me/blog/categories/think-it-over/</loc>
+</url>
+<url>
+<loc>http://syliu.me/blog/categories/design-statement/</loc>
 </url>
 </urlset>

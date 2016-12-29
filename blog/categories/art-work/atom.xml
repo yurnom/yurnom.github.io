@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: art-work | Liu Shanyin]]></title>
+  <link href="http://syliu.me/blog/categories/art-work/atom.xml" rel="self"/>
+  <link href="http://syliu.me/"/>
+  <updated>2016-12-29T15:22:54+08:00</updated>
+  <id>http://syliu.me/</id>
+  <author>
+    <name><![CDATA[syliu]]></name>
+    <email><![CDATA[yurnom@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My Art Works]]></title>
+    <link href="http://syliu.me/blog/2016/12/18/my-art-works/"/>
+    <updated>2016-12-18T08:57:05+08:00</updated>
+    <id>http://syliu.me/blog/2016/12/18/my-art-works</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/1.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/2.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/3.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/4.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/5.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/6.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/7.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/8.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/9.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/bg.jpg"></p>
+]]></content>
+  </entry>
+  
+</feed>
