@@ -6,13 +6,14 @@ date_formatted: 2016-12-18 08:57
 comments: true
 categories: art-work 
 ---
-{% img center /images/1.jpg %}
-***
-{% img center /images/2.jpg %}
-***
 {% img center /images/3.jpg %}
 ***
 {% img center /images/4.jpg %}
+<!--more-->
+***
+{% img center /images/1.jpg %}
+***
+{% img center /images/2.jpg %}
 ***
 {% img center /images/5.jpg %}
 ***
