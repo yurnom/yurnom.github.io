@@ -4,7 +4,7 @@
   <title><![CDATA[Category: art-work | Liu Shanyin]]></title>
   <link href="http://syliu.me/blog/categories/art-work/atom.xml" rel="self"/>
   <link href="http://syliu.me/"/>
-  <updated>2016-12-29T16:49:47+08:00</updated>
+  <updated>2016-12-30T10:53:29+08:00</updated>
   <id>http://syliu.me/</id>
   <author>
     <name><![CDATA[syliu]]></name>
@@ -18,19 +18,22 @@
     <link href="http://syliu.me/blog/2016/12/18/my-art-works/"/>
     <updated>2016-12-18T08:57:05+08:00</updated>
     <id>http://syliu.me/blog/2016/12/18/my-art-works</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/1.jpg"></p>
-
-<hr />
-
-<p><img class="center" src="/images/2.jpg"></p>
-
-<hr />
-
-<p><img class="center" src="/images/3.jpg"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/3.jpg"></p>
 
 <hr />
 
 <p><img class="center" src="/images/4.jpg"></p>
+
+<!--more-->
+
+
+<hr />
+
+<p><img class="center" src="/images/1.jpg"></p>
+
+<hr />
+
+<p><img class="center" src="/images/2.jpg"></p>
 
 <hr />
 
