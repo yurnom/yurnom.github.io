@@ -4,7 +4,7 @@
   <title><![CDATA[Liu Shanyin]]></title>
   <link href="http://syliu.me/atom.xml" rel="self"/>
   <link href="http://syliu.me/"/>
-  <updated>2016-12-30T10:59:12+08:00</updated>
+  <updated>2017-01-03T13:57:56+08:00</updated>
   <id>http://syliu.me/</id>
   <author>
     <name><![CDATA[syliu]]></name>
@@ -20,12 +20,13 @@
     <id>http://syliu.me/blog/2016/12/29/space</id>
     <content type="html"><![CDATA[<p><video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
   <source id="mp4" src="http://syliu.me/images/space.mp4" type="video/mp4">
-</video>
-这是一款利用 unreal 3 engine制作的空间解迷游戏。当我还是一名初中生时，一款名为《无限回廊》的psp游戏令我印象深刻，所以后来我也想设计一款利用空间完成解谜的游戏。</p>
+</video></p>
 
-<p>这款游戏的最重要的元素就是可控制移动的平台以及远距离跳板。而可移动的平台位置又受玩家视野影响，因为整个游戏是一个复杂的空间，因为结构复杂，如果没有很好地镜头引导玩家，可能会对玩家解谜造成困扰。最开始我邀请我的朋友玩我这款游戏是他们是很迷茫的，因为他们出发了机关却不知道哪里产生了变化，所以很困扰。于是我设计了大量的分镜头来提示玩家空间结构发生的变化：比如当一块平台移动会触发分镜头拉伸摄像机，这样玩家就知道是哪个地方的空间位置发生了变化。后来我再次邀请他们来玩，这次整个游戏过程流畅多了。</p>
+<p>It is a game of solving space puzzles via unreal 3 engines. As a middle school student, I was so deeply impressed by a PSP game called Echochrome that I managed to design via space a puzzle-solving game called SPACE.</p>
 
-<p>从这个游戏设计中我学到了游戏设计要注重玩家体验，玩家们不是设计师，如果没有适当的引导，他们会对游戏产生困扰，所以一款好的游戏要注重用户体验。</p>
+<p>The most important part of SPACE is its controllably moving stages and long-distance gangplank. Because the game was placed in a complicated space, the specific position of moving stages is affected by the player’s eye shot. With its complicated structuring, the game always perplexes the player unguided by a good lens. In the beginning, my friends felt rather perplexed in playing the game, because they did not know where changes came from after starting the gear. Thus, I devised many sub-lens to hint the player about changes on space structuring. For example, when a stage is moved, a sub-lens will be triggered to stretch the camera so that the player knows where the space structuring is changing. This has made the whole game process much easier and smoother.</p>
+
+<p>In designing the game SPACE, I have realized that players’ more than designers’ experience should be focused in designing games. Otherwise, players will be perplexed. Therefore, in designing a good game, players’ experience should never be over-emphasized.</p>
 ]]></content>
   </entry>
   
@@ -38,11 +39,11 @@
   <source id="mp4" src="http://syliu.me/images/a.mp4" type="video/mp4">
 </video></p>
 
-<p>近年许多游戏公司设计的游戏越来越复杂，游戏元素也越来越多，一个好的游戏一定要有丰富的元素支持吗？我不这么认为，我觉得即使是一个很简单的元素，只要设计出彩，一样能做成好游戏。所以我设计了一款2D AVG 游戏《α》。</p>
+<p>Although computer games designed by companies are becoming more and more complicated and increasing in their game parts, a good game does not necessarily need to have abundant game parts. In my opinion, as long as it is uniquely designed, a simple game can be listed as GOOD. With this perspective, I have managed to design a 2D AVG game called α.</p>
 
-<p>这款游戏最基础的几个操作就是上下左右，跳跃，发射子弹，以及最关键的空间传送。围绕着空间传送这个功能我设计了很多障碍，比如子弹能够穿过人却无法穿过的墙壁，只有使用空间传送才能穿过这些墙壁，而且这些墙壁有两种状态，彩虹状态时子弹也是无法穿透的。空间传送也是有限制的，它最远只能达到九个单位距离，利用这一特性我设计了会规律移动的平台，再配合各种机关解迷，使整个游戏过程充满乐趣。</p>
+<p>The most basic operations in playing α are moving up and down, left and right, skipping, emitting bullets and space transmission which is the most importance operation. Focused on space transmissions I have designed many obstacles such as walls which can be passed through by bullets. A man can pass through these walls only if he resorts to space transmission. There walls have two forms and during their rainbow form, even bullets cannot pass through. And, space transmission is limited because it can only reach as far as 9 distance units. Under this circumstance, I have designed a regularly-movable platform, which works with various gear puzzles to increase the fun in playing α .</p>
 
-<p>设计这个游戏的过程中我学会了如何利用游戏本身来引导玩家，以及如何利用分镜头来引导玩家。还有如何通过关卡设计来掌控游戏节奏使完全全程都觉得这个游戏很有意思。最重要的是，我学到了原来把简单做到极致也是一种成功。</p>
+<p>During the process of game designing, I have learnt to lead the player via the game itself as well as the story board. Besides, I have managed to make the whole game-playing process funny and interesting by controlling the game rhythm with stage plans. Most of all, I have realized that it has turned out a great success to polish a simple thing to its utmost.</p>
 ]]></content>
   </entry>
   
@@ -121,34 +122,32 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[超级马里奥兄弟游戏中三点出彩的设计]]></title>
-    <link href="http://syliu.me/blog/2016/12/17/chao-ji-ma-li-ao-xiong-di-you-xi-zhong-san-dian-chu-cai-de-she-ji/"/>
+    <title type="html"><![CDATA[Critical Analysis]]></title>
+    <link href="http://syliu.me/blog/2016/12/17/critical-analysis/"/>
     <updated>2016-12-17T14:48:13+08:00</updated>
-    <id>http://syliu.me/blog/2016/12/17/chao-ji-ma-li-ao-xiong-di-you-xi-zhong-san-dian-chu-cai-de-she-ji</id>
-    <content type="html"><![CDATA[<h2>超级马里奥兄弟游戏中三点出彩的设计</h2>
-
-<p>上世纪80年代，游戏不以画面甚至剧情取胜，更注重的是关卡设计，这也让制作者们把更多精力投入其中。《超级马里奥兄弟》（《SUPER MARIO BROS.》）就是在这样的背景下诞生的一款风靡全球的游戏。为什么超级马里奥兄弟能从那么多fc游戏中脱引而出，我认为以下三点起了很大作用。</p>
+    <id>http://syliu.me/blog/2016/12/17/critical-analysis</id>
+    <content type="html"><![CDATA[<p>n the 1980’s, designer of FC games focused much more attention on stage projecting instead of picturing or plotting. SUPER MARIO BROS was a globally popular FC game typical in this context. As for why it came out on top among all the FC games, I think there are mainly three reasons:</p>
 
 <ul>
-<li>隐藏要素</li>
+<li>Hidden parts</li>
 </ul>
 
 
-<p>超级马里奥兄弟隐藏在砖头中的奖励，隐藏的房间，隐藏的跳关管道，以及各种捷径，但玩家发现隐藏的要素就像发现新大陆一样令人激动。</p>
+<p>All the hidden parts in SUPER MARIO BROS, like awards hidden in bricks, hidden rooms, hidden stage-breading channels and shortcuts, are exciting and haunted for the player to find, just as they are ready to find a new island.</p>
 
 <ul>
-<li>精确设计的陷阱及跳跃平台</li>
+<li>Well-designed traps and skipping platforms</li>
 </ul>
 
 
-<p>超级马里奥兄弟中玩家能用的最基本的操作就是跳跃，一个简单的跳跃如何能吸引玩家，这就涉及到关卡中平台的设计，每一个平台之间的距离和高度都是经过精确计算和反复尝试的，配合不断组合的各种陷阱平台、可移动平台、机关、怪物干扰形成一系列障碍，从而增加了游戏的挑战性和趣味性。</p>
+<p>Skipping is the most basic operation the player can use when playing SUPER MARIO BROS. The simple operation skipping can be so attractive to the player mainly due to designing of playforms in different stages. Distance and height between every two stages are precisely calculated and repeatedly experimented. Working with various traps and platforms combined at will, movable  platforms and gears, and monstors‘ obstruction, they make up of a series of obstacles, which add to the challenges and interest in playing SUPER MARIO BROS.</p>
 
 <ul>
-<li>高效的模块化关卡设计</li>
+<li>Highly-effective modularized stage designing</li>
 </ul>
 
 
-<p>在超级马里奥兄弟中，主要的基本场景只有森林、下水道、城堡、水下四种。但是每种场景通过里面的地形变换，怪物升级，甚至还有天气变换（白天和黑夜）硬是完成了八大关卡的设计。以城堡为例，初期的城堡内部只有少量的机关陷阱和敌人，并且缓冲余地高，操作容错率也比较大。而到了游戏后期，一不小心就要重头来过，甚至还有可以无限循环的迷宫。这些虽然都是相似的元素，但玩家每进行一个新的关卡时都会面临不一样的挑战。</p>
+<p>There are only four main stages in SUPER MARIO BROS, which include forest, sewer, castle and underwater. However, terrain variation, monstor upgrading and time change between day and night in every stage lead to a 8-stage design. Taking the castle for instance, in its early stage there are few gears, traps and enemies, the buffering margin is high and the room for operation mistakes is large. While in the late stage, one mimor mistake will lead to the player’s beginning the game totally again and even being trapped in a maze of infinite experimenting. Despite of all these similar parts, SUPER MARIO BROS places the player under different challenges whenever he begins a new stage.</p>
 ]]></content>
   </entry>
   
