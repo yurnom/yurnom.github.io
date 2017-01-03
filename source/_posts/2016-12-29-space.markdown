@@ -9,9 +9,9 @@ categories: design-statement
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
   <source id="mp4" src="/images/space.mp4" type="video/mp4">
 </video>
-这是一款利用 unreal 3 engine制作的空间解迷游戏。当我还是一名初中生时，一款名为《无限回廊》的psp游戏令我印象深刻，所以后来我也想设计一款利用空间完成解谜的游戏。
 
-这款游戏的最重要的元素就是可控制移动的平台以及远距离跳板。而可移动的平台位置又受玩家视野影响，因为整个游戏是一个复杂的空间，因为结构复杂，如果没有很好地镜头引导玩家，可能会对玩家解谜造成困扰。最开始我邀请我的朋友玩我这款游戏是他们是很迷茫的，因为他们出发了机关却不知道哪里产生了变化，所以很困扰。于是我设计了大量的分镜头来提示玩家空间结构发生的变化：比如当一块平台移动会触发分镜头拉伸摄像机，这样玩家就知道是哪个地方的空间位置发生了变化。后来我再次邀请他们来玩，这次整个游戏过程流畅多了。
+It is a game of solving space puzzles via unreal 3 engines. As a middle school student, I was so deeply impressed by a PSP game called Echochrome that I managed to design via space a puzzle-solving game called SPACE.
 
-从这个游戏设计中我学到了游戏设计要注重玩家体验，玩家们不是设计师，如果没有适当的引导，他们会对游戏产生困扰，所以一款好的游戏要注重用户体验。
+The most important part of SPACE is its controllably moving stages and long-distance gangplank. Because the game was placed in a complicated space, the specific position of moving stages is affected by the player’s eye shot. With its complicated structuring, the game always perplexes the player unguided by a good lens. In the beginning, my friends felt rather perplexed in playing the game, because they did not know where changes came from after starting the gear. Thus, I devised many sub-lens to hint the player about changes on space structuring. For example, when a stage is moved, a sub-lens will be triggered to stretch the camera so that the player knows where the space structuring is changing. This has made the whole game process much easier and smoother.
 
+In designing the game SPACE, I have realized that players’ more than designers’ experience should be focused in designing games. Otherwise, players will be perplexed. Therefore, in designing a good game, players’ experience should never be over-emphasized.
